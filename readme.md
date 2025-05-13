@@ -17,3 +17,5 @@ Markdown is simple yet powerful for documentation.
 
 
 ### new test
+![](water.jpg)
+[google](http://google.com)
